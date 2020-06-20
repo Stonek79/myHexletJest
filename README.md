@@ -1,0 +1,2 @@
+# myHexletJest
+try jest
